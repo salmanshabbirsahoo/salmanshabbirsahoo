@@ -6,35 +6,39 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Computer+Science+Student;C%23+%7C+C%2B%2B+Developer;Desktop+Application+Developer;Software+Development+Enthusiast" />
 </p>
 
+
 ---
 
 ## 👨‍💻 About Me
 
 I am a **Computer Science student at UET Lahore** with a strong foundation in **C++, C#, Object-Oriented Programming, Windows Forms, HTML, CSS, and MySQL**.
 
-I enjoy building practical software solutions, solving programming problems, and designing applications using strong programming concepts.
+I enjoy designing software solutions, solving programming problems, and building practical applications.
 
-My experience includes developing console-based applications and desktop applications using C# and Object-Oriented Programming principles.
+My development experience includes creating console-based applications and desktop applications using C# with Object-Oriented Programming concepts.
+
+I am passionate about improving my software engineering skills and building real-world solutions.
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### Programming Languages
+
+## Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,mysql" />
 </p>
 
 
-### Tools
+## Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github" />
 </p>
 
 
-### Concepts
+## Core Concepts
 
 <p>
 
@@ -48,6 +52,7 @@ My experience includes developing console-based applications and desktop applica
 
 </p>
 
+
 ---
 
 # 🚀 Featured Projects
@@ -55,11 +60,11 @@ My experience includes developing console-based applications and desktop applica
 
 ## 🐄 Cattle Farm Management System
 
-**C# | Windows Forms | OOP**
+**C# | Windows Forms | Object-Oriented Programming**
 
-A desktop application developed using C# and Object-Oriented Programming concepts.
+A desktop-based management system developed using C# and OOP principles.
 
-**Features:**
+### Features
 
 - User authentication
 - Cattle record management
@@ -70,75 +75,96 @@ A desktop application developed using C# and Object-Oriented Programming concept
 
 ---
 
+
 ## 🎮 Console Based Game
 
 **C++**
 
 A console-based game developed to improve programming logic and problem-solving skills.
 
-**Concepts Used:**
+### Concepts Used
 
 - Functions
 - Loops
-- Conditional logic
-- Game implementation
+- Conditional statements
+- Game logic implementation
 
 
 ---
+
 
 ## 📋 Console Management System
 
 **C++ | File Handling**
 
-A console-based CRUD application for managing records.
+A console application developed for managing records using CRUD operations.
 
-**Concepts Used:**
+### Concepts Used
 
 - File handling
 - Data management
 - Menu-driven architecture
 
+
 ---
 
 # 🎓 Education
+
 
 **Bachelor of Science in Computer Science**
 
 University of Engineering and Technology (UET) Lahore
 
+
 ---
 
-# 📌 GitHub Statistics
+# 📊 GitHub Statistics
+
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salmanshabbirsahoo&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=salmanshabbirsahoo&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanshabbirsahoo&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanshabbirsahoo&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 
 ---
 
-# 📫 Contact
+# 🤝 Connect With Me
 
-Email:
 
-**salmanshabbir1244@gmail.com**
+<p align="center">
 
-GitHub:
 
-**github.com/salmanshabbirsahoo**
+<a href="https://github.com/salmanshabbirsahoo" title="GitHub Profile">
 
-LinkedIn:
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-**linkedin.com/in/salman-shabbir-/**
+</a>
+
+
+<a href="https://www.linkedin.com/in/salman-shabbir-/" title="LinkedIn Profile">
+
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+
+</p>
+
+
+<p align="center">
+
+📧 Email: **salmanshabbir1244@gmail.com**
+
+</p>
 
 
 ---
@@ -148,6 +174,7 @@ LinkedIn:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer"/>
 
 </p>
+
 
 <h3 align="center">
 Code • Learn • Build • Improve
