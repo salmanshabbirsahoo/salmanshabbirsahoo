@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Salman Shabbir
+  Hi , I'm Salman Shabbir
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a **Computer Science student at UET Lahore** with a strong foundation in **C++, C#, Object-Oriented Programming, Windows Forms, HTML, CSS, and MySQL**.
 
@@ -21,7 +21,7 @@ I am passionate about improving my software engineering skills and building real
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
 
 ## Programming Languages
@@ -55,10 +55,10 @@ I am passionate about improving my software engineering skills and building real
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 
-## 🐄 Cattle Farm Management System
+##  Cattle Farm Management System
 
 **C# | Windows Forms | Object-Oriented Programming**
 
@@ -76,7 +76,7 @@ A desktop-based management system developed using C# and OOP principles.
 ---
 
 
-## 🎮 Console Based Game
+##  Console Based Game
 
 **C++**
 
@@ -93,7 +93,7 @@ A console-based game developed to improve programming logic and problem-solving 
 ---
 
 
-## 📋 Console Management System
+##  Console Management System
 
 **C++ | File Handling**
 
@@ -108,7 +108,7 @@ A console application developed for managing records using CRUD operations.
 
 ---
 
-# 🎓 Education
+ 🎓 Education
 
 
 **Bachelor of Science in Computer Science**
@@ -118,26 +118,8 @@ University of Engineering and Technology (UET) Lahore
 
 ---
 
-# 📊 GitHub Statistics
 
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=salmanshabbirsahoo&show_icons=true&theme=github_dark&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanshabbirsahoo&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🤝 Connect With Me
+#  Connect With Me
 
 
 <p align="center">
@@ -162,7 +144,7 @@ University of Engineering and Technology (UET) Lahore
 
 <p align="center">
 
-📧 Email: **salmanshabbir1244@gmail.com**
+ Email: **salmanshabbir1244@gmail.com**
 
 </p>
 
